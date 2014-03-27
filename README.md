@@ -1,9 +1,10 @@
-# locky
+# singleton worker
+
+Run a process accross multiple machines.
+
 [![Build Status](https://travis-ci.org/vvo/singleton-worker.svg?branch=master)](https://travis-ci.org/vvo/singleton-worker)
 [![Dependency Status](https://david-dm.org/vvo/singleton-worker.svg?theme=shields.io)](https://david-dm.org/vvo/singleton-worker)
 [![devDependency Status](https://david-dm.org/vvo/singleton-worker/dev-status.svg?theme=shields.io)](https://david-dm.org/vvo/singleton-worker#info=devDependencies)
-
-Run a process accross multiple machines.
 
 # options
 
